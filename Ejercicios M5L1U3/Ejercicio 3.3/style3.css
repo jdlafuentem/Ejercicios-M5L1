@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+.menu {
+    margin: 0;
+    background-color: black;
+    color: white;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+}
+.menu li:hover {
+    color: lightblue;
+}
