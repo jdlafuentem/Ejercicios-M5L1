@@ -1,0 +1,17 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.first {
+    font-style: italic;
+    border: 2px dotted red;
+}
+.second {
+    font-size: 30px;
+    color: white;
+    background-color: blue;
+}
+.third {
+    margin-top: 80px;
+    font-size: small;
+    background-color:rgb(72, 110, 14);
+}

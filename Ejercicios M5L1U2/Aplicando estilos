@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Ejercicio 4</title>
+    </head>
+    <body>
+        <h1>Aplicando estilos</h1>
+        <p><b>Esto es una negrita</b></p>
+        <p><i>Esto en cursiva</i></p>
+        <p><u>Esto subrayado</u></p>
+        <p style="font-size: 40px;">Letra grande</p>
+        <p><small>Letra pequeña</small></p>
+        <p style="color: blue;">Esta frase en azul</p>
+        <p style="background-color: red;">Esta frase tendrá el fondo rojo</p>
+    </body>
+</html> 
