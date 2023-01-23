@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    background: linear-gradient(90deg, green 50%, white 50%);
+}
+.menu {
+    margin-left: 20px;
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+}
+.menu a {
+    color: white;
+}
+.menu a:hover {
+    background-color: lightgreen;
+}
